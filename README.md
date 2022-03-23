@@ -3,7 +3,7 @@
 
 - 📚 Acadêmico de Ciência da computação.
 - 📚 Estudando **React, Node.JS e C#**
-- Apaixonado por Game Designer 
+- :video_game: Apaixonado por Game Designer 
 
 
 <p>
