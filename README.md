@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/stefan-lucas-599668224/">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="perfil no linkedin" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/stefan.luks">
+  <a href="https://www.instagram.com/stefan.luks/">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="perfil no instagram" height="30" width="40" />
   </a>
   <a href="https://codesandbox.io/u/stefanluks">
