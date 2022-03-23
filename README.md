@@ -1,5 +1,5 @@
 <h2 align="center">Olá, eu sou Stefan Lucas</h2>
-<img align="right" src="./animes-pc.jpg" width="350px" />
+<a href="https://github.com/stefanluks/Infinito"><img align="right" src="./infinito.gif" width="250px" /></a>
 
 - 📚 Acadêmico de Ciência da computação.
 - 📚 Estudando **React, Node.JS e C#**
