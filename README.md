@@ -50,5 +50,3 @@
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40" />
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unity.svg" height="30" width="40" />
 </p>
-
-<a href="https://github.com/stefanluks/Infinito"><img align="right" src="./infinito.gif" width="250px" /></a>
