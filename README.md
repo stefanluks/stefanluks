@@ -21,7 +21,7 @@
 </p>
 
 
-<h3 align="left">Onde me encontrar:</h3>
+<h3 align="rigth">Onde me encontrar:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/stefan-lucas-599668224/">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="perfil no linkedin" height="30" width="40" />
