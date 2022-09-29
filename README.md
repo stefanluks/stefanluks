@@ -23,12 +23,8 @@
 
 <h3 align="left">Onde me encontrar:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/stefan-lucas-599668224/">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="perfil no linkedin" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/stefan.luks/">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="perfil no instagram" height="30" width="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/stefan-lucas-599668224/" style="background-color: #0e76a8; color: white;"></a>
+  <a href="https://www.instagram.com/stefan.luks/"></a>
   <a href="https://codesandbox.io/u/stefanluks">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="perfil no Code sand box" height="30" width="40" />
   </a>
