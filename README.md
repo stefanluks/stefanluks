@@ -1,7 +1,6 @@
 <h2 align="center">Olá, eu sou Stefan Lucas</h2>
 
 - 📚 Bacharel em Ciência da computação.
-- 📚 Estudando **React, Vue.js e Flutter**
 - :video_game: Apaixonado por Game Developer 
 
 
