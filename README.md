@@ -23,26 +23,17 @@
 
 <h3 align="left">Onde me encontrar:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/stefan-lucas-599668224/" style="background-color: #0e76a8; color: white;"></a>
-  <a href="https://www.instagram.com/stefan.luks/"></a>
+  <a href="https://www.linkedin.com/in/stefan-lucas-599668224/">
+    <img src="./linkedin.png" width="60px" />
+  </a>
+  <a href="https://www.instagram.com/stefan.luks/">
+    <img src="./instagram.png" width="60px" />
+  </a>
   <a href="https://codesandbox.io/u/stefanluks">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="perfil no Code sand box" height="30" width="40" />
+    <img src="./codesandbox.png" width="60px" />
   </a>
   <a href="https://codepen.io/stefanluks" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="perfil no Code sand Pen" height="30" width="40" />
+    <img src="./codepen.png" width="60px" />
   </a>
 </p>
 
-<h3>Minhas habilidades:</h3>
-<p align="left">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" height="30" width="40" />
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" height="30" width="40" />
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" height="30" width="40" />
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" height="30" width="40" />
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg" height="30" width="40" />
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg" height="30" width="40" />
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg" height="30" width="40" />
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" height="30" width="40" />
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40" />
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unity.svg" height="30" width="40" />
-</p>
