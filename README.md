@@ -1,7 +1,7 @@
 <h2 align="center">Olá, eu sou Stefan Lucas</h2>
 
 - 📚 Bacharel em Ciência da computação.
-- :video_game: Apaixonado por Game Developer 
+- :video_game: Pós graduando em desenvolvimento de games
 
 
 <p>
