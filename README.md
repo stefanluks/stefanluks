@@ -36,3 +36,21 @@
   </a>
 </p>
 
+<br>
+
+## Minhas Habilidades:
+
+> <h4>Front-End</h4> <img src="./icones/html.png" width="50px" /> <img src="./icones/css.png" width="50px" /> <img src="./icones/vue.png" width="50px" /> <img src="./icones/vue.png" width="50px" />
+
+<br>
+
+> <h4>Linguagens de Programação</h4>  <img src="./icones/py.webp" width="50px" />  <img src="./icones/java.png" width="50px" />  <img src="./icones/js.png" width="50px" />  <img src="./icones/ts.png" width="50px" />  <img src="./icones/csharp.svg" width="50px" />   <img src="./icones/c++.png" width="50px" />
+
+<br>
+
+> <h4>Frameworks</h4> <img src="./icones/django.png" width="50px" /> <img src="./icones/flask.png" width="50px" /> <img src="./icones/angular.png" width="50px" /> <img src="./icones/react.png" width="50px" /> <img src="./icones/node.png" width="50px" />
+
+<br>
+
+> <h4>Ferramentas</h4> <img src="./icones/unity.png" width="50px" /> <img src="./icones/ps.png" width="50px" /> <img src="./icones/corel.png" width="50px" />
+
