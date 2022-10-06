@@ -40,7 +40,7 @@
 
 ## Minhas Habilidades:
 
-> <h4>Front-End</h4> <img src="./icones/html.png" width="50px" /> <img src="./icones/css.png" width="50px" /> <img src="./icones/vue.png" width="50px" /> <img src="./icones/vue.png" width="50px" />
+> <h4>Front-End</h4> <img src="./icones/html.png" width="50px" /> <img src="./icones/css.png" width="50px" /> <img src="./icones/vue.png" width="50px" /> <img src="./icones/bootstrap.png" width="50px" />
 
 <br>
 
