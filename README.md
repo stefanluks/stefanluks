@@ -49,7 +49,7 @@
 
 ## Minhas Habilidades:
 
-> <h4>Front-End</h4> <img src="./icones/html.png" width="50px" /> <img src="./icones/css.png" width="50px" /> <img src="./icones/vue.png" width="50px" /> <img src="./icones/bootstrap.png" width="50px" />
+> <h4>Front-End</h4> <img src="./icones/html.png" width="50px" /> <img src="./icones/css.png" width="50px" /> <img src="./icones/vue.png" width="50px" /> <img src="./icones/bootstrap.png" width="50px" /> <img src="./icones/react.png" width="50px" />
 
 <br>
 
@@ -57,7 +57,7 @@
 
 <br>
 
-> <h4>Frameworks</h4> <img src="./icones/django.png" width="50px" /> <img src="./icones/flask.png" width="50px" /> <img src="./icones/angular.png" width="50px" /> <img src="./icones/react.png" width="50px" /> <img src="./icones/node.png" width="50px" />
+> <h4>Frameworks</h4> <img src="./icones/django.png" width="50px" /> <img src="./icones/flask.png" width="50px" /> <img src="./icones/angular.png" width="50px" /> <img src="./icones/node.png" width="50px" />
 
 <br>
 
