@@ -16,13 +16,13 @@
     <a href="https://danimes.herokuapp.com/">
       <img src="./imagens/dan.png" width="150px" alt="DaNimeS"/>
     </a>
-    <a href="https://onepieceapirest.herokuapp.com/">
+    <a href="https://github.com/stefanluks/ApiOnePiece">
       <img src="./imagens/op_api.png" width="80px" alt="API de One Piece"/>
     </a>
-    <a href="https://slblogs.herokuapp.com/">
+    <a href="https://github.com/stefanluks/SLBlogs">
       <img src="./imagens/slblogs.png" width="80px" alt="SL Blogs"/>
     </a>
-    <a href="https://slchat2.herokuapp.com/">
+    <a href="https://github.com/stefanluks/SLchat">
       <img src="./imagens/slchat.png" width="80px" alt="SL Chats"/>
     </a>
   </p>
