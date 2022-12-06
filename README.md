@@ -13,9 +13,9 @@
     <a href="https://logicgirl.herokuapp.com">
         <img src="./imagens/sam.png" width="80px" />
     </a>
-    <a href="https://danimes.herokuapp.com/">
+<!--     <a href="https://danimes.herokuapp.com/">
       <img src="./imagens/dan.png" width="150px" alt="DaNimeS"/>
-    </a>
+    </a> -->
     <a href="https://github.com/stefanluks/ApiOnePiece">
       <img src="./imagens/op_api.png" width="80px" alt="API de One Piece"/>
     </a>
