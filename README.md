@@ -53,5 +53,5 @@
 
 <br>
 
-> <h4>Ferramentas</h4> <img src="./icones/unity.png" width="50px" /> <img src="./icones/ps.png" width="50px" /> <img src="./icones/corel.png" width="50px" />
+> <h4>Ferramentas</h4> <img src="./icones/unity.png" width="50px" /> <img src="./icones/ps.png" width="50px" /> <img src="./icones/corel.png" width="50px" /><img src="./icones/aseprite.png" width="50px" />
 
