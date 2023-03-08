@@ -1,21 +1,13 @@
 <h2 align="center">Olá, eu sou Stefan Lucas</h2>
 
 - 📚 Bacharel em Ciência da computação.
-- :video_game: Pós graduando em desenvolvimento de games
-
+- :video_game: Especialista em desenvolvimento de games
+<br>
+<a href="https://stefanlucas.com">Portifolio</a>
 
 <p>
   <h3>Principais Projetos</h3>
   <p>
-    <a href="https://logikingdom.herokuapp.com">
-      <img src="./imagens/lk.png" width="60px" />
-    </a>
-    <a href="https://logicgirl.herokuapp.com">
-        <img src="./imagens/sam.png" width="80px" />
-    </a>
-<!--     <a href="https://danimes.herokuapp.com/">
-      <img src="./imagens/dan.png" width="150px" alt="DaNimeS"/>
-    </a> -->
     <a href="https://github.com/stefanluks/ApiOnePiece">
       <img src="./imagens/op_api.png" width="80px" alt="API de One Piece"/>
     </a>
