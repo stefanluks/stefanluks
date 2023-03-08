@@ -1,8 +1,9 @@
-<h2 align="center">Olá, eu sou Stefan Lucas</h2>
+<h1 align="left">Stefan Lucas</h2>
 
 - 📚 Bacharel em Ciência da computação.
 - :video_game: Especialista em desenvolvimento de games
 <br>
+> Web and Game FullStack Developer
 <a href="https://stefanlucas.com">Portifolio</a>
 
 <p>
