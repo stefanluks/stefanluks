@@ -2,7 +2,7 @@
 
 - 📚 Bacharel em Ciência da computação.
 - :video_game: Especialista em desenvolvimento de games
-- Web and Game FullStack Developer <br> <a href="https://stefanlucas.com">Portifolio - Stefan Lucas</a>
+- Web and Game Developer <br> <a href="https://stefanlucas.com">Portifolio - Stefan Lucas</a>
 - e-mail: stefan@stefanlucas.com
 
 <p>
