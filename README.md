@@ -1,10 +1,16 @@
 <h1 align="center">
   <img src="./imagens/capa.png" />
 </h2>
-
+<a href="stefanlucas.com">Portifólio: stefanlucas.com</a>
 <p>
   <h3>Principais Projetos</h3>
   <p>
+    <a href="https://play.google.com/store/apps/details?id=com.StefanLucas.MemoriaOtaku">
+      <img src="./imagens/mmotaku.webp" width="80px" alt="API de One Piece"/>
+    </a>
+    <a href="https://github.com/stefanluks/Alimente-O-Luffy">
+      <img src="./imagens/Aluffy.png" width="80px" alt="API de One Piece"/>
+    </a>
     <a href="https://github.com/stefanluks/ApiOnePiece">
       <img src="./imagens/op_api.png" width="80px" alt="API de One Piece"/>
     </a>
