@@ -1,9 +1,6 @@
-<h1 align="left">Stefan Lucas</h2>
-
-- 📚 Bacharel em Ciência da computação.
-- :video_game: Especialista em desenvolvimento de games
-- Web and Game Developer <br> <a href="https://stefanlucas.com">Portifolio - Stefan Lucas</a>
-- e-mail: stefan@stefanlucas.com
+<h1 align="center">
+  <img src="./imagens/capa.png" />
+</h2>
 
 <p>
   <h3>Principais Projetos</h3>
