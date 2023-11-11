@@ -1,5 +1,5 @@
 ## Stefan Lucas
-Especialista em desenvolvimento de jogos e bacharel em Ciência da computação. Busco constantemente trabalhar com excelência, contribuindo com minhas habilidades para projetos de destaque.
+Especialista em desenvolvimento de jogos e bacharel em Ciência da computação. Busco constantemente trabalhar com excelência, contribuindo com minhas habilidades para projetos de destaque.<br>
 <a href="stefanlucas.com">stefanlucas.com</a>
 
 <a href="https://instagram.com/stefan.luks">
@@ -24,29 +24,10 @@ Especialista em desenvolvimento de jogos e bacharel em Ciência da computação.
 
 ### Principais Projetos</h3>
 
-<div style="border: 1px solid black; width: 250px; text-align: center;">
+<a href="https://github.com/stefanluks/ApiOnePiece">
+  <img src="./imagens/op_api.png" width="80px" alt="API de One Piece"/>
+</a>
 
-  <a href="https://github.com/stefanluks/ApiOnePiece" >
-    <img src="./imagens/op_api.png" width="100px" alt="API de One Piece"/>
-  </a>
-
-  <div style="background-color: black; color: white; width: 250px">
-    Api rest de One piece construida com **Python** e **Django**
-    buscando manter e distribuir mais informaçãoes da obra de forma livre.
-  </div>
-</div>
-
-<div style="border: 1px solid black; width: 250px; text-align: center;">
-
-  <a href="https://github.com/stefanluks/SLchat">
-    <img src="./imagens/slgames.png" width="65px" alt="SL Chats"/>
-  </a>
-
-  <div style="background-color: black; color: white; width: 250px">
-    Api rest de One piece construida com **Python** e **Django**
-    buscando manter e distribuir mais informaçãoes da obra de forma livre.
-  </div>
-</div>
-
-
----
+<a href="https://github.com/stefanluks/Api-Game-Ranking-Controller">
+  <img src="./imagens/slgames.png" width="65px" alt="SL games"/>
+</a>
