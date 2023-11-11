@@ -1,51 +1,70 @@
-<h1 align="center">
-  <img src="./imagens/capa.png" />
-</h2>
-<a href="stefanlucas.com">Portifólio: stefanlucas.com</a>
-<p>
-  <h3>Principais Projetos</h3>
-  <p>
-    <a href="https://github.com/stefanluks/ApiOnePiece">
-      <img src="./imagens/op_api.png" width="80px" alt="API de One Piece"/>
-    </a>
-    <a href="https://github.com/stefanluks/SLchat">
-      <img src="./imagens/slchat.png" width="80px" alt="SL Chats"/>
-    </a>
-  </p>
-</p>
+## Stefan Lucas
+Especialista em desenvolvimento de jogos e bacharel em Ciência da computação. Busco constantemente trabalhar com excelência, contribuindo com minhas habilidades para projetos de destaque.
+<a href="stefanlucas.com">stefanlucas.com</a>
 
+<a href="https://instagram.com/stefan.luks">
+  <img src="./imagens/insta.webp" width="35px">
+</a>
 
-<h3 align="left">Onde me encontrar:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/stefan-lucas-599668224/">
-    <img src="./imagens/linkedin.png" width="100px" />
+<a href="https://www.linkedin.com/in/stefan-lucas-599668224/">
+  <img src="./imagens/linkedin.webp" width="35px">
+</a>
+
+<a href="https://www.linkedin.com/in/stefan-lucas-599668224/">
+  <img src="./imagens/lattes.webp" width="35px">
+</a>
+
+---
+
+### Habilidades
+
+<img src="./icones/html.png" width="35px" />
+<img src="./icones/css.png" width="35px" />
+<img src="./icones/js.png" width="35px" />
+<img src="./icones/node.png" width="35px" />
+<img src="./icones/bootstrap.png" width="35px" />
+
+<img src="./icones/django.png" width="35px" />
+<img src="./icones/flask.png" width="35px" />
+
+<img src="./icones/react.png" width="35px" />
+<img src="./icones/py.webp" width="35px" />
+<img src="./icones/csharp.svg" width="35px" />
+
+<img src="./icones/angular.png" width="35px" />
+
+<img src="./icones/unity.png" width="35px" />
+<img src="./icones/ps.png" width="35px" />
+<img src="./icones/corel.png" width="35px" />
+<img src="./icones/aseprite.png" width="35px" />
+
+---
+
+### Principais Projetos</h3>
+
+<div style="border: 1px solid black; width: 250px; text-align: center;">
+
+  <a href="https://github.com/stefanluks/ApiOnePiece" >
+    <img src="./imagens/op_api.png" width="100px" alt="API de One Piece"/>
   </a>
-  <a href="https://www.instagram.com/stefan.luks/">
-    <img src="./imagens/instagram.png" width="100px" />
+
+  <div style="background-color: black; color: white; width: 250px">
+    Api rest de One piece construida com **Python** e **Django**
+    buscando manter e distribuir mais informaçãoes da obra de forma livre.
+  </div>
+</div>
+
+<div style="border: 1px solid black; width: 250px; text-align: center;">
+
+  <a href="https://github.com/stefanluks/SLchat">
+    <img src="./imagens/slgames.png" width="65px" alt="SL Chats"/>
   </a>
-  <a href="https://codesandbox.io/u/stefanluks">
-    <img src="./imagens/codesandbox.png" width="100px" />
-  </a>
-  <a href="https://codepen.io/stefanluks" target="blank">
-    <img src="./imagens/codepen.png" width="100px" />
-  </a>
-</p>
 
-<br>
+  <div style="background-color: black; color: white; width: 250px">
+    Api rest de One piece construida com **Python** e **Django**
+    buscando manter e distribuir mais informaçãoes da obra de forma livre.
+  </div>
+</div>
 
-## Minhas Habilidades:
 
-> <h4>Front-End</h4> <img src="./icones/html.png" width="50px" /> <img src="./icones/css.png" width="50px" /> <img src="./icones/vue.png" width="50px" /> <img src="./icones/bootstrap.png" width="50px" /> <img src="./icones/react.png" width="50px" />
-
-<br>
-
-> <h4>Linguagens de Programação</h4>  <img src="./icones/py.webp" width="50px" />  <img src="./icones/java.png" width="50px" />  <img src="./icones/js.png" width="50px" />  <img src="./icones/ts.png" width="50px" />  <img src="./icones/csharp.svg" width="50px" />   <img src="./icones/c++.png" width="50px" />
-
-<br>
-
-> <h4>Frameworks</h4> <img src="./icones/django.png" width="50px" /> <img src="./icones/flask.png" width="50px" /> <img src="./icones/angular.png" width="50px" /> <img src="./icones/node.png" width="50px" />
-
-<br>
-
-> <h4>Ferramentas</h4> <img src="./icones/unity.png" width="50px" /> <img src="./icones/ps.png" width="50px" /> <img src="./icones/corel.png" width="50px" /><img src="./icones/aseprite.png" width="50px" />
-
+---
