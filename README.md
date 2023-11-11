@@ -29,5 +29,5 @@ Especialista em desenvolvimento de jogos e bacharel em Ciência da computação.
 </a>
 
 <a href="https://github.com/stefanluks/Api-Game-Ranking-Controller">
-  <img src="./imagens/slgames.png" width="65px" alt="SL games"/>
+  <img src="./imagens/slgames.png" width="80px" alt="SL games"/>
 </a>
