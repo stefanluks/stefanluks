@@ -1,6 +1,5 @@
 ## Stefan Lucas
-
-#### Especialista em desenvolvimento de jogos e bacharel em Ciência da computação. Busco constantemente trabalhar com excelência, contribuindo com minhas habilidades para projetos de destaque.<br>
+Especialista em desenvolvimento de jogos e bacharel em Ciência da computação. Busco constantemente trabalhar com excelência, contribuindo com minhas habilidades para projetos de destaque. <br>
 <a href="stefanlucas.com">stefanlucas.com</a>
 
 <a href="https://instagram.com/stefan.luks">
