@@ -20,21 +20,7 @@ Bacharel em Ciência da computação
 
 ### Habilidades
 
-<img src="./icones/html.png" width="35px" />
-<img src="./icones/css.png" width="35px" />
-<img src="./icones/js.png" width="35px" />
-<img src="./icones/node.png" width="35px" />
-<img src="./icones/bootstrap.png" width="35px" />
-<img src="./icones/django.png" width="35px" />
-<img src="./icones/flask.png" width="35px" />
-<img src="./icones/react.png" width="35px" />
-<img src="./icones/py.webp" width="35px" />
-<img src="./icones/csharp.svg" width="35px" />
-<img src="./icones/angular.png" width="35px" />
-<img src="./icones/unity.png" width="35px" />
-<img src="./icones/ps.png" width="35px" />
-<img src="./icones/corel.png" width="35px" />
-<img src="./icones/aseprite.png" width="35px" />
+<img src="./icones/html.png" width="35px" /><img src="./icones/css.png" width="35px" /><img src="./icones/js.png" width="35px" /><img src="./icones/node.png" width="35px" /><img src="./icones/bootstrap.png" width="35px" /><img src="./icones/django.png" width="35px" /><img src="./icones/flask.png" width="35px" /><img src="./icones/react.png" width="35px" /><img src="./icones/py.webp" width="35px" /><img src="./icones/csharp.svg" width="35px" /><img src="./icones/angular.png" width="35px" /><img src="./icones/unity.png" width="35px" /><img src="./icones/ps.png" width="35px" /><img src="./icones/corel.png" width="35px" /><img src="./icones/aseprite.png" width="35px" />
 
 ---
 
