@@ -32,6 +32,6 @@ Bacharel em Ciência da computação
 <a href="https://github.com/stefanluks/ApiOnePiece">
   <img src="./imagens/op_api.png" width="80px" alt="API de One Piece"/>
 </a>
-<a href="https://github.com/stefanluks/Api-Game-Ranking-Controller">
-  <img src="./imagens/slgames.png" width="80px" alt="SL games"/>
+<a href="https://github.com/stefanluks/Thousand-Sunny-Api">
+  <img src="./imagens/icon-TSA.png" width="80px" alt="Thousand Sunny API"/>
 </a>
