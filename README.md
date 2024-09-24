@@ -33,5 +33,5 @@ Bacharel em Ciência da computação
   <img src="./imagens/op_api.png" width="80px" alt="API de One Piece"/>
 </a>
 <a href="https://github.com/stefanluks/Thousand-Sunny-Api">
-  <img src="./imagens/icon-TSA.png" width="80px" alt="Thousand Sunny API"/>
+  <img src="./imagens/icon-TSA.jpg" width="80px" alt="Thousand Sunny API"/>
 </a>
