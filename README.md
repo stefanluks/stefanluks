@@ -2,7 +2,7 @@
 Especialista em desenvolvimento de jogos<br>
 Bacharel em Ciência da computação
 <br>
-<a href="https://stefanluks.github.io/portifolio/">📌 Portifolio Online</a><br>
+<a href="https://stefanluks.my.canva.site">📌 Portifolio Online</a><br>
 <a href="/arquivos/curriculo.pdf">📃 Curriculo</a>
 
 
