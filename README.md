@@ -6,6 +6,9 @@ Bacharel em Ciência da computação
 <a href="/arquivos/curriculo.pdf">📃 Curriculo</a>
 
 
+<a href="https://thestefanlucas.itch.io">
+  <img src="./icones/itchio.png" width="35px">
+</a>
 <a href="https://instagram.com/stefan.luks">
   <img src="./imagens/insta.webp" width="35px">
 </a>
