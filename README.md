@@ -28,7 +28,6 @@ Tenho experiência em projetos educacionais, autorais e experimentais, utilizand
 ---
 
 ## Tecnologias e Ferramentas
-## Habilidades
 
 <table>
   <tr>
@@ -146,6 +145,8 @@ Tenho experiência em projetos educacionais, autorais e experimentais, utilizand
 ## Contato e +
 Site: https://tfanstudios.com.br <br>
 E-mail: stefan.luks.as@gmail.com <br>
+
+
 <a href="https://instagram.com/stefan.luks">
     <img src="./imagens/insta.webp" width="20px" style="margin: 0px 4px;" />
     Instagram: @stefan.luks
