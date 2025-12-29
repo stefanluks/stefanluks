@@ -48,32 +48,59 @@ Tenho experiência em projetos educacionais, autorais e experimentais, utilizand
 
 ## Projetos em Destaque
 
-<div style="display: flex;">
-    <img src="./imagens/tfanstudios.png" width="80" style="margin: 0px 8px"/>
-    <h3>O TFAN Studios é uma plataforma de jogos autorais onde são publicados projetos desenvolvidos pelo autor e compilados na Unity para HTML5 / WebGL. Os jogos são disponibilizados gratuitamente, permitindo que qualquer pessoa jogue diretamente pelo navegador, sem necessidade de instalação.</h3>
-</div>
+<table>
+  <tr>
+    <td width="90">
+      <img src="./imagens/tfanstudios.png" width="80" />
+    </td>
+    <td>
+     <h3>Tfan Studios</h3>
+      O <strong>TFAN Studios</strong> é uma plataforma de jogos autorais onde são publicados projetos desenvolvidos pelo autor e compilados na Unity para HTML5 / WebGL. Os jogos são disponibilizados gratuitamente, permitindo que qualquer pessoa jogue diretamente pelo navegador, sem necessidade de instalação.
+    </td>
+  </tr>
+</table>
 
 ---
 
-<div style="display: flex;">
-    <img src="./imagens/auto-plan.png" width="80" style="margin: 0px 8px"/>
-    <h3>Aplicação em Electron que automatiza o cadastro de planos de aula no sistema do SENAI. O professor seleciona a turma e a disciplina, importa uma planilha XLSX e o sistema copia automaticamente as informações para a plataforma, reduzindo trabalho manual e erros.</h3>
-</div>
+<table>
+  <tr>
+    <td width="90">
+      <img src="./imagens/auto-plan.png" width="80" />
+    </td>
+    <td>
+        <h3>Auto Plan</h3>
+      Aplicação em <strong>Electron</strong> que automatiza o cadastro de planos de aula no sistema do SENAI. O professor seleciona a turma e a disciplina, importa uma planilha XLSX e o sistema copia automaticamente as informações para a plataforma, reduzindo trabalho manual e erros.
+    </td>
+  </tr>
+</table>
 
 ---
 
-<div style="display: flex;">
-    <img src="./imagens/senai-box.png" width="80" style="margin: 0px 8px"/>
-    <h3>Projeto ElectronJS que simula um SO para uma raspberry pi 4, como um console de videogames.
-    Jogos desenvolvidos pelos alunos na unity compilados para HTML5 / WEBGL.</h3>
-</div>
+<table>
+  <tr>
+    <td width="90">
+      <img src="./imagens/senai-box.png" width="80" />
+    </td>
+    <td>
+    <h3>Fliperama Senai</h3>
+      Projeto em <strong>ElectronJS</strong> que simula um sistema operacional de fliperama para <strong>Raspberry Pi 4</strong>. Os jogos são desenvolvidos pelos alunos na Unity e compilados para HTML5 / WebGL.
+    </td>
+  </tr>
+</table>
 
 ---
 
-<div style="display: flex;">
-    <img src="./imagens/icon-TSA.jpg" width="80" style="margin: 0px 8px"/>
-    <h3>Sistema de controle de pontuação dos jogos criados por mim, registrando os pontos dos jogadores em um banco PostgreSQL usando Sequelize e Node.Js.</h3>
-</div>
+<table>
+  <tr>
+    <td width="90">
+      <img src="./imagens/icon-TSA.jpg" width="80" />
+    </td>
+    <td>
+    <h3>Thousand Sunny API</h3>
+      API para controle de pontuação e ranking de jogos, registrando dados em banco <strong>PostgreSQL</strong> utilizando <strong>Node.js</strong> e <strong>Sequelize</strong>.
+    </td>
+  </tr>
+</table>
 
 ---
 
