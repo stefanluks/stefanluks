@@ -48,30 +48,33 @@ Tenho experiência em projetos educacionais, autorais e experimentais, utilizand
 
 ## Projetos em Destaque
 
-### TFAN Studios
 <div style="display: flex;">
-    <img src="./imagens/tfanstudios.png" width="100" style="margin: 0px 8px"/>
+    <img src="./imagens/tfanstudios.png" width="80" style="margin: 0px 8px"/>
     <h3>O TFAN Studios é uma plataforma de jogos autorais onde são publicados projetos desenvolvidos pelo autor e compilados na Unity para HTML5 / WebGL. Os jogos são disponibilizados gratuitamente, permitindo que qualquer pessoa jogue diretamente pelo navegador, sem necessidade de instalação.</h3>
 </div>
 
-### Auto Lesson Planner
+---
+
 <div style="display: flex;">
-    <img src="./imagens/auto-plan.png" width="100" style="margin: 0px 8px"/>
+    <img src="./imagens/auto-plan.png" width="80" style="margin: 0px 8px"/>
     <h3>Aplicação em Electron que automatiza o cadastro de planos de aula no sistema do SENAI. O professor seleciona a turma e a disciplina, importa uma planilha XLSX e o sistema copia automaticamente as informações para a plataforma, reduzindo trabalho manual e erros.</h3>
 </div>
 
-### Projeto Fliperama SENAI
+---
+
 <div style="display: flex;">
-    <img src="./imagens/senai-box.png" width="100" style="margin: 0px 8px"/>
+    <img src="./imagens/senai-box.png" width="80" style="margin: 0px 8px"/>
     <h3>Projeto ElectronJS que simula um SO para uma raspberry pi 4, como um console de videogames.
     Jogos desenvolvidos pelos alunos na unity compilados para HTML5 / WEBGL.</h3>
 </div>
 
-### Thousand Sunny API
+---
+
 <div style="display: flex;">
-    <img src="./imagens/icon-TSA.jpg" width="100" style="margin: 0px 8px"/>
+    <img src="./imagens/icon-TSA.jpg" width="80" style="margin: 0px 8px"/>
     <h3>Sistema de controle de pontuação dos jogos criados por mim, registrando os pontos dos jogadores em um banco PostgreSQL usando Sequelize e Node.Js.</h3>
 </div>
+
 ---
 
 ## Contato e +
