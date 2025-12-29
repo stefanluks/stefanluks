@@ -29,75 +29,66 @@ Tenho experiência em projetos educacionais, autorais e experimentais, utilizand
 
 ## Tecnologias e Ferramentas
 
-### Linguagens
-- Python  
-- Node.js  
-- C#  
-- PHP  
-- Java  
-
-### Frameworks e Backend
-- Django  
-- Express / Node.js  
-- Sequelize  
-
-### Game Development
-- Unity (2D e 3D)  
-- Godot  
-- Roblox Studio  
-
 ### Web
-- HTML5  
-- CSS3  
-- JavaScript  
+<img src="./icones/html.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/css.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/js.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/bootstrap.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/react.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/angular.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/electron.png" width="35px" style="margin: 0px 4px;" />
 
----
-## Habilidades
-
-### Web
-<img src="./icones/html.png" width="35px" /><img src="./icones/css.png" width="35px" /><img src="./icones/js.png" width="35px" /><img src="./icones/bootstrap.png" width="35px" /><img src="./icones/react.png" width="35px" /><img src="./icones/angular.png" width="35px" />
+### Mobile
+<img src="./icones/Kivy.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/flutter.webp" width="35px" style="margin: 0px 4px;" />
 
 ### Backend
-<img src="./icones/node.png" width="35px" /><img src="./icones/django.png" width="35px" /><img src="./icones/flask.png" width="35px" /><img src="./icones/py.webp" width="35px" /><img src="./icones/csharp.svg" width="35px" />
+<img src="./icones/node.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/django.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/flask.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/py.webp" width="35px" style="margin: 0px 4px;" /><img src="./icones/csharp.svg" width="35px" style="margin: 0px 4px;" />
 
 ### Game Development
-<img src="./icones/unity.png" width="35px" />
+<img src="./icones/unity.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/roblox-studio.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/godot.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/pygame.png" width="35px" style="margin: 0px 4px;" />
 
 ### Design e Arte
-<img src="./icones/ps.png" width="35px" /><img src="./icones/corel.png" width="35px" /><img src="./icones/aseprite.png" width="35px" />
+<img src="./icones/ps.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/corel.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/aseprite.png" width="35px" style="margin: 0px 4px;" />
 
 ---
 
 ## Projetos em Destaque
 
 ### TFAN Studios
-<img src="tfanstudios.png" width="200"/>
-Plataforma de jogos autorais desenvolvidos em Unity e publicados gratuitamente via WebGL.  
-Site: https://tfanstudios.com.br
-
-### Thousand Sunny API
-<img src="game-api.png" width="200"/>
-API REST para controle de pontuação e ranking de jogos, utilizando Node.js, Sequelize e PostgreSQL.
+<div style="display: flex;">
+    <img src="./imagens/tfanstudios.png" width="100" style="margin: 0px 8px"/>
+    <h3>O TFAN Studios é uma plataforma de jogos autorais onde são publicados projetos desenvolvidos pelo autor e compilados na Unity para HTML5 / WebGL. Os jogos são disponibilizados gratuitamente, permitindo que qualquer pessoa jogue diretamente pelo navegador, sem necessidade de instalação.</h3>
+</div>
 
 ### Auto Lesson Planner
-<img src="autoplan.png" width="200"/>
-Aplicação desktop em Electron para automação do cadastro de planos de aula a partir de planilhas XLSX.
+<div style="display: flex;">
+    <img src="./imagens/auto-plan.png" width="100" style="margin: 0px 8px"/>
+    <h3>Aplicação em Electron que automatiza o cadastro de planos de aula no sistema do SENAI. O professor seleciona a turma e a disciplina, importa uma planilha XLSX e o sistema copia automaticamente as informações para a plataforma, reduzindo trabalho manual e erros.</h3>
+</div>
 
 ### Projeto Fliperama SENAI
-<img src="senai-box.png" width="200"/>
-Sistema estilo fliperama desenvolvido com Electron para execução de jogos WebGL em Raspberry Pi.
+<div style="display: flex;">
+    <img src="./imagens/senai-box.png" width="100" style="margin: 0px 8px"/>
+    <h3>Projeto ElectronJS que simula um SO para uma raspberry pi 4, como um console de videogames.
+    Jogos desenvolvidos pelos alunos na unity compilados para HTML5 / WEBGL.</h3>
+</div>
 
+### Thousand Sunny API
+<div style="display: flex;">
+    <img src="./imagens/icon-TSA.jpg" width="100" style="margin: 0px 8px"/>
+    <h3>Sistema de controle de pontuação dos jogos criados por mim, registrando os pontos dos jogadores em um banco PostgreSQL usando Sequelize e Node.Js.</h3>
+</div>
 ---
 
-## Jogos Publicados
-Página com meus jogos autorais publicados:  
-https://thestefanlucas.itch.io/
+## Contato e +
+Site: https://tfanstudios.com.br <br>
+E-mail: stefan.luks.as@gmail.com <br>
+<a href="https://instagram.com/stefan.luks">
+    <img src="./imagens/insta.webp" width="20px" style="margin: 0px 4px;" />
+    Instagram: @stefan.luks
+</a>
+<br>
+<a href="https://github.com/stefanluks">
+    <img src="./icones/git.jpg" width="20px" style="margin: 0px 4px;" />
+    Github: stefanluks
+</a>
+<br>
+<a href="https://thestefanlucas.itch.io/ ">
+    <img src="./icones/itchio.webp" width="20px" style="margin: 0px 4px;" />
+    Jogos Publicados
+</a>
 
----
-
-## Contato
-E-mail: stefan.luks.as@gmail.com
-Instagram: https://instagram.com/stefan.luks
-GitHub: https://github.com/stefanluks  
-Itch.io: https://thestefanlucas.itch.io/  
-Site: https://tfanstudios.com.br
