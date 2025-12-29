@@ -28,21 +28,60 @@ Tenho experiência em projetos educacionais, autorais e experimentais, utilizand
 ---
 
 ## Tecnologias e Ferramentas
+## Habilidades
 
-### Web
-<img src="./icones/html.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/css.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/js.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/bootstrap.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/react.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/angular.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/electron.png" width="35px" style="margin: 0px 4px;" />
+<table>
+  <tr>
+    <th>Web</th>
+    <th>Mobile</th>
+    <th>Game Development</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="./icones/html.png" width="35px" />
+      <img src="./icones/css.png" width="35px" />
+      <img src="./icones/js.png" width="35px" />
+      <img src="./icones/bootstrap.png" width="35px" />
+      <img src="./icones/react.png" width="35px" />
+      <img src="./icones/angular.png" width="35px" />
+      <img src="./icones/electron.png" width="35px" />
+    </td>
+    <td>
+      <img src="./icones/Kivy.png" width="35px" />
+      <img src="./icones/flutter.webp" width="35px" />
+    </td>
+    <td>
+      <img src="./icones/unity.png" width="35px" />
+      <img src="./icones/roblox-studio.png" width="35px" />
+      <img src="./icones/godot.png" width="35px" />
+      <img src="./icones/pygame.png" width="35px" />
+    </td>
+  </tr>
+</table>
 
-### Mobile
-<img src="./icones/Kivy.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/flutter.webp" width="35px" style="margin: 0px 4px;" />
+<br/>
 
-### Backend
-<img src="./icones/node.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/django.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/flask.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/py.webp" width="35px" style="margin: 0px 4px;" /><img src="./icones/csharp.svg" width="35px" style="margin: 0px 4px;" />
+<table>
+  <tr>
+    <th>Backend</th>
+    <th>Design e Arte</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="./icones/node.png" width="35px" />
+      <img src="./icones/django.png" width="35px" />
+      <img src="./icones/flask.png" width="35px" />
+      <img src="./icones/py.webp" width="35px" />
+      <img src="./icones/csharp.svg" width="35px" />
+    </td>
+    <td>
+      <img src="./icones/ps.png" width="35px" />
+      <img src="./icones/corel.png" width="35px" />
+      <img src="./icones/aseprite.png" width="35px" />
+    </td>
+  </tr>
+</table>
 
-### Game Development
-<img src="./icones/unity.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/roblox-studio.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/godot.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/pygame.png" width="35px" style="margin: 0px 4px;" />
-
-### Design e Arte
-<img src="./icones/ps.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/corel.png" width="35px" style="margin: 0px 4px;" /><img src="./icones/aseprite.png" width="35px" style="margin: 0px 4px;" />
 
 ---
 
