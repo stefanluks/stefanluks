@@ -1,6 +1,9 @@
 # Stefan Lucas
 
-Instrutor de Tecnologia da Informação no SENAI, desenvolvedor web e desenvolvedor de jogos.
+Desenvolvedor web e desenvolvedor de jogos.<br>
+Instrutor de Tecnologia da Informação no SENAI.<br>
+Professor dos Cursos de Ciência da Computação e Engenharia de Software na Ulbra Palmas.
+
 
 ---
 
@@ -84,64 +87,6 @@ Tenho experiência em projetos educacionais, autorais e experimentais, utilizand
 
 ---
 
-## Projetos em Destaque
-
-<table>
-  <tr>
-    <td width="90">
-      <img src="./imagens/tfanstudios.png" width="80" />
-    </td>
-    <td>
-     <h3>Tfan Studios</h3>
-      O <strong>TFAN Studios</strong> é uma plataforma de jogos autorais onde são publicados projetos desenvolvidos pelo autor e compilados na Unity para HTML5 / WebGL. Os jogos são disponibilizados gratuitamente, permitindo que qualquer pessoa jogue diretamente pelo navegador, sem necessidade de instalação.
-    </td>
-  </tr>
-</table>
-
----
-
-<table>
-  <tr>
-    <td width="90">
-      <img src="./imagens/auto-plan.png" width="80" />
-    </td>
-    <td>
-        <h3>Auto Plan</h3>
-      Aplicação em <strong>Electron</strong> que automatiza o cadastro de planos de aula no sistema do SENAI. O professor seleciona a turma e a disciplina, importa uma planilha XLSX e o sistema copia automaticamente as informações para a plataforma, reduzindo trabalho manual e erros.
-    </td>
-  </tr>
-</table>
-
----
-
-<table>
-  <tr>
-    <td width="90">
-      <img src="./imagens/senai-box.png" width="80" />
-    </td>
-    <td>
-    <h3>Fliperama Senai</h3>
-      Projeto em <strong>ElectronJS</strong> que simula um sistema operacional de fliperama para <strong>Raspberry Pi 4</strong>. Os jogos são desenvolvidos pelos alunos na Unity e compilados para HTML5 / WebGL.
-    </td>
-  </tr>
-</table>
-
----
-
-<table>
-  <tr>
-    <td width="90">
-      <img src="./imagens/icon-TSA.jpg" width="80" />
-    </td>
-    <td>
-    <h3>Thousand Sunny API</h3>
-      API para controle de pontuação e ranking de jogos, registrando dados em banco <strong>PostgreSQL</strong> utilizando <strong>Node.js</strong> e <strong>Sequelize</strong>.
-    </td>
-  </tr>
-</table>
-
----
-
 ## Contato e +
 Site: https://tfanstudios.com.br <br>
 E-mail: stefan.luks.as@gmail.com <br>
@@ -152,9 +97,14 @@ E-mail: stefan.luks.as@gmail.com <br>
     Instagram: @stefan.luks
 </a>
 <br>
-<a href="https://github.com/stefanluks">
-    <img src="./icones/git.jpg" width="20px" style="margin: 0px 4px;" />
-    Github: stefanluks
+<a href="https://stefanlucas.com.br/ ">
+    <img src="./icones/ts.png" width="20px" style="margin: 0px 4px;" />
+    Meu Portifolio
+</a>
+<br>
+<a href="https://tfanstudios.com.br/ ">
+    <img src="./icones/react.png" width="20px" style="margin: 0px 4px;" />
+    Meu Studio
 </a>
 <br>
 <a href="https://thestefanlucas.itch.io/ ">
